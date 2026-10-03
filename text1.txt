@@ -3,5 +3,5 @@ this is version 2 of text1.txt\
 
 
 function hello() {
-    print("hello")
+    print("hi")
 }
