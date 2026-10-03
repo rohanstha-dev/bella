@@ -1,2 +1,7 @@
 this is version 1 file of text1.txt
-this is version 2 of text1.txt
+this is version 2 of text1.txt\
+
+
+function hello() {
+    print("hello")
+}
